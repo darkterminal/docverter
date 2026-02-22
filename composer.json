@@ -1,5 +1,5 @@
 {
-    "name": "jumbaeric/docverter",
+    "name": "jumbaeric/docverter-patch",
     "description": "A versatile PHP package for document conversion between various formats.",
     "type": "library",
     "license": "MIT",
