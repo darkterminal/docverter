@@ -1,6 +1,6 @@
 {
-    "name": "jumbaeric/docverter-patch",
-    "description": "A versatile PHP package for document conversion between various formats.",
+    "name": "darkterminal/docverter-patch",
+    "description": "A versatile PHP package for document conversion between various formats. - patch from jumbaeric/docverter",
     "type": "library",
     "license": "MIT",
     "authors": [
